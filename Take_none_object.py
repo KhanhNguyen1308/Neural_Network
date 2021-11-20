@@ -4,11 +4,6 @@ import pathlib
 import numpy as np
 from support import show_train_ds, coordinates
 
-xs = []
-ys = []
-ws = []
-hs = []
-names = []
 count = 0
 count_images = 0
 
